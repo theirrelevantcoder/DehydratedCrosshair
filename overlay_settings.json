@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "style": "plus",
+  "size": 9,
+  "thickness": 2,
+  "outline": 0,
+  "color": "red",
+  "opacity": 1.0
+}
